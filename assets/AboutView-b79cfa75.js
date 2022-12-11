@@ -1,0 +1,1 @@
+import{o as e,c as t,a as o,_ as s}from"./index-5e1baba6.js";const _={class:"about"},a=o("h1",null,"This is an about page",-1),c=[a];function n(r,u){return e(),t("div",_,c)}const i={},l=s(i,[["render",n]]);export{l as default};
