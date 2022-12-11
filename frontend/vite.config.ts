@@ -7,6 +7,7 @@ const vuePugPlugin = require('vue-pug-plugin');
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/fit",
   plugins: [vue({
     template: {
       preprocessOptions: {
